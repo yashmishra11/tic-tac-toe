@@ -1,0 +1,12 @@
+.card-w {
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+    /* border-radius: 5px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #23272f;
+    cursor: pointer;
+    
+}

@@ -1,0 +1,14 @@
+.grid-w {
+    display: grid;
+    grid-template-columns: 104px 104px 104px;
+    /* gap: 10px; */
+    place-items: center;
+    justify-content: center;
+    
+}
+.head{
+    font-size: 50px;
+    display: flex;
+    flex: auto;
+    text-align: center;
+}
